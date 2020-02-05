@@ -31,7 +31,7 @@
 # Pack Code: EU91F13D-P
 # License: MIT, https://energized.pro/license
 # Updated: Wed, 05 Feb 20 00:12:37
-# RAW: https://raw.githubusercontent.com/PHEDmillion/Hosts/master/Hostipv6.txt?token=ACFPUMZSZJBFPH2KPNZCIZC6HIFQA
+# RAW: https://raw.githubusercontent.com/PHEDmillion/Hosts/master/Hostipv6.txt
 # --------------------------------------------
 #
 # --------------------------------------------
